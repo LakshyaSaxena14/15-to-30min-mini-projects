@@ -1,4 +1,4 @@
-#use this program to scrape anything from google.
+#use this program to search & scrape anything from google.
 
 from bs4 import BeautifulSoup 
 import requests

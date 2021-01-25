@@ -1,4 +1,4 @@
-#A simple Tetris game using python
+# A simple Tetris game using python
 
 This program is in python and to install the required additional modules, open the command prompt on your system then go to the working directory,
 

@@ -1,4 +1,4 @@
-#Random Password Generator
+# Random Password Generator
 
 This program is in python and to install the required modules, open the command line in your working directory where you have cloned this repository.
 

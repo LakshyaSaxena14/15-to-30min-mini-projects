@@ -1,6 +1,6 @@
 # Face Detector
 
-This program is a opencv program in python that can open a user's webcam and open detect its face.
+This program is a opencv program in python that can open a user's webcam and detect its face.
 
 To install all the required modules, open the terminal in the directory where the user have cloned the repository and type 
 

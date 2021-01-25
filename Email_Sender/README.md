@@ -1,4 +1,4 @@
-#Email Sender
+# Email Sender
 
 This program is developed in python and can send automated emails to the receiver's email address.
 
